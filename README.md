@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ignaciocastrocenteno&label=Profile%20views&color=0e75b6&style=flat" alt="ignaciocastrocenteno" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aftun](https://github.com/aftun)
+- 👨‍💻 All of my projects are available at [https://github.com/ignaciocastrocenteno](https://github.com/ignaciocastrocenteno)
 
 - 📫 How to reach me **ignaciocastrocenteno@gmail.com**
 
